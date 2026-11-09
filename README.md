@@ -17,7 +17,6 @@
 | Project | Description | Tech | Folder |
 | --- | --- | --- | --- |
 | Text To Speech | Reads typed text aloud using the browser's speech engine | HTML, CSS, JavaScript, Web Speech API | [`TextToSpeech/`](TextToSpeech) |
-| Coastal Website | Website project | HTML, CSS | `coastal_website/` |
 
 ---
 
@@ -45,12 +44,6 @@ cd MiniProjects/TextToSpeech
 | --- | --- |
 | `index.html` | Page layout and speech logic |
 | `style.css` | Styling |
-
----
-
-### Coastal Website
-
-> This folder is currently linked as a git submodule without a `.gitmodules` entry, so its files do not show on GitHub. Add the files directly to this repository to make the project visible.
 
 ## Author
 
